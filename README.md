@@ -1,2 +1,2 @@
-# MH-Z19
-MH-Z19 to ThingsBoard 
+# mh-z19 to ThingsBoard 
+
