@@ -1,6 +1,6 @@
 # mh-z19_thingsboard
 
-Supports BME280 (temperature, relative humidity and atmospheric pressure) sensor conected to a single device.
+Supports MH-Z19 (co2) sensor conected to a single device.
 
 
 # Connecting sensors
