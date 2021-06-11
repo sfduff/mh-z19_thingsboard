@@ -36,7 +36,7 @@ Enalbe the i2c interface
 
 clone repo and run 
 
-``python3 read_mh-z19.py``
+``python3 co2.py``
 
 
 # uses
